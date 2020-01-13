@@ -1,4 +1,4 @@
-requests==2.10.0
+requests==2.20.0
 PySocks==1.7.1
 pysocks5==0.1
 python-telegram-bot==12.2.0
