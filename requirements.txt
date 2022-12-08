@@ -3,5 +3,5 @@ PySocks==1.7.1
 pysocks5==0.1
 python-telegram-bot==12.2.0
 setuptools==39.2.0
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
