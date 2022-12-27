@@ -2,6 +2,6 @@ requests==2.10.0
 PySocks==1.7.1
 pysocks5==0.1
 python-telegram-bot==12.2.0
-setuptools==39.2.0
+setuptools==65.5.1
 certifi==2019.11.28
 chardet==3.0.4
